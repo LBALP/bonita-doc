@@ -1,4 +1,4 @@
-= Bonita Documentation
+= Bonita
 :description: Learn how to use the Bonita Platform and all of its components.
 
 Learn how to use the Bonita Platform and all of its components.
